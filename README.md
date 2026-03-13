@@ -1,19 +1,44 @@
-### Olá, me chamo Lucas Braga 👋
+<h1 align="center">Olá 👋 Eu sou Lucas Braga Souza da Silva</h1>
 
+<p align="center">
+   Desenvolvedor Front-End <br>
+   Focado em HTML, CSS e JavaScript(Por enquanto) <br>
+   Brasil
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+- 🔭 **Foco atual:** Fazendo Curso de TI
+- 🌱 **Estudando e Praticando:** Já domino a base (e um pouco mais!) de HTML e CSS. Atualmente estou focado em criar sistemas com JavaScript.
+- 🚀 Criando projetos próprios e evoluindo constantemente
+
+---
+
+### 📊 Linguagens mais usadas
 <div align="center">
-  <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbraga49x-png&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbraga49x-png&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasbraga49x-png&layout=compact&theme=tokyonight" width="424"/>
 </div>
 
-<br>
+---
 
-### 💻 Tecnologias e Ferramentas
+### 🔥 Sequência de Contribuições
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=lucasbraga49x-png&theme=tokyonight" />
+</div>
 
-<div style="display: inline-block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+---
+
+### 💻 Tecnologias que uso
+<p align="center">
+  <img height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</p>
+
+---
+
+### 🐍 Snake das Contribuições
+<div align="center">
+  ![Snake animation](https://raw.githubusercontent.com/lucasbraga49x-png/lucasbraga49x-png/output/github-contribution-grid-snake.svg)
 </div>
